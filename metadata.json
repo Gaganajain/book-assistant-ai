@@ -1,0 +1,6 @@
+{
+  "name": "BookWise — Intelligent Book Assistant",
+  "description": "AI-powered RAG book assistant with chapter intelligence, grounded citation-backed answers, page inspection, and revision key takeaways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
