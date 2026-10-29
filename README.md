@@ -1,6 +1,17 @@
-# BookWise — Intelligent Book Assistant
+<div align="center">
+
+# 📚 BookWise — Intelligent Book Assistant
 
 **Your books. Your questions. Verified answers.**
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-RAG-4285F4?logo=googlegemini&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+</div>
 
 BookWise is an AI-powered, citation-focused RAG book assistant that allows users to upload a full-length PDF book and interact with it through verified, chapter-by-chapter intelligence and grounded answers.
 
@@ -115,3 +126,11 @@ The app will start at `http://localhost:3000`.
 - Multi-book cross-comparison and synthesis
 - Flashcard quiz mode & spaced repetition export
 - Voice input & TTS read-aloud citations
+
+---
+
+## 👩‍💻 Author
+
+**Gagana Jain A** · [GitHub](https://github.com/Gaganajain)
+
+⭐ If you found this useful, consider giving the repo a star!
